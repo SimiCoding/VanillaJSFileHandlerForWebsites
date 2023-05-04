@@ -1,3 +1,4 @@
+// All coded by SimiCoding on github!
 import { loadCssFiles } from "./loadFiles/loadCss.js";
 import { loadJsFiles } from "./loadFiles/loadJs.js";
 
