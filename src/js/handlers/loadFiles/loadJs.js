@@ -1,3 +1,4 @@
+// All coded by SimiCoding on github!
 import { jsStructure } from "../../../data/fileStructure/jsStructure.js";
 
 const head = document.getElementsByTagName("head")[0]; // Initalize Head
