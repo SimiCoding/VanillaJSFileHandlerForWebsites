@@ -1,3 +1,4 @@
+// All coded by SimiCoding on github!
 export const jsStructure = [
   {
     folder: `test/`,
